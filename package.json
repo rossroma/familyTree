@@ -1,0 +1,28 @@
+{
+  "name": "family-tree",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rossroma/familyTree.git"
+  },
+  "keywords": [
+    "familytree"
+  ],
+  "author": "rossroma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rossroma/familyTree/issues"
+  },
+  "homepage": "https://github.com/rossroma/familyTree#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-minify-html": "^1.0.6",
+    "gulp-uglify": "^2.0.0"
+  }
+}
